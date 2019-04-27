@@ -1,0 +1,1 @@
+{"version":3,"file":"main.9418c7407d56bfa44f56.bundle.js","sources":["webpack:///./src/lib/MediaType.js"],"sourcesContent":["export const MediaType = Object.freeze({\n    link: Symbol(\"link\"),\n    image: Symbol(\"image\"),\n    video: Symbol(\"video\"),\n    audio: Symbol(\"audio\")\n});"],"mappings":"AAAA","sourceRoot":""}
