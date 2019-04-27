@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import {MediaType} from '../lib/MediaType';
 import {getMediaTypeByExt, getMediaTypeByMeta} from '../lib/GetMediaType';
 
-export default class Player extends Component {
+export default class ReactAutoMedia extends Component {
     static propTypes = {
         src: PropTypes.string.isRequired,
         onTypeDeduced: PropTypes.func,
